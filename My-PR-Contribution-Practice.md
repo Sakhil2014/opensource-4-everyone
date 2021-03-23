@@ -74,6 +74,9 @@ ________________________________________________________________________________
   
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+  
+- [Sakhil] (https://github.com/Sakhil2014)
+<p> Bio: Free Time Dev. Trying hard to become fullstack </P> 
 
 
 
